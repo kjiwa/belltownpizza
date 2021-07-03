@@ -82,15 +82,10 @@ cover-img: /assets/img/btp-cover.jpg
 <h4 class="d-inline-block">Garden</h4><h4 class="float-right">Small $17 / Medium $21 / Large $25</h4>
 <p class="mt-0">Artichoke hearts, mushrooms, red onions, green peppers, black olives.</p>
 
-## <u>Build Your Own Pizza</u>
+<h4 class="d-inline-block">Build Your Own</h4><h4 class="float-right">Small $14 / Medium $17 / Large $18</h4>
 
-<h4 class="d-flex justify-content-center">Small (9&quot;) $14 / Medium (12&quot;) $17 / Large (18&quot;) $19</h4>
+<p class="mt-0 mb-1"><u>Meats:</u> Anchovies, bacon, Canadian bacon, chicken breast, Italian sausage, pepperoni, prosciutto, meatballs, salami.</p>
 
-<h4>Meats</h4>
-<p class="mt-0">Anchovies, bacon, Canadian bacon, chicken breast, Italian sausage, pepperoni, prosciutto, meatballs, salami.</p>
+<p class="mt-0 mb-1"><u>Veggies:</u> Artichoke hearts, basil, black olives, fresh spinach, garlic, green peppers, jalapenos, Kalamata olives, mama lil's peppers, mushrooms, pesto, pineapple, pepperoncinis, red onions, roasted red peppers, Roma tomatoes, sun dried tomatoes.</p>
 
-<h4>Veggies</h4>
-<p class="mt-0">Artichoke hearts, basil, black olives, fresh spinach, garlic, green peppers, jalapenos, Kalamata olives, mama lil's peppers, mushrooms, pesto, pineapple, pepperoncinis, red onions, roasted red peppers, Roma tomatoes, sun dried tomatoes.</p>
-
-<h4>Cheese</h4>
-<p class="mt-0">Feta, mozzarella, goat cheese, gorgonzola, provolone, ricotta</p>
+<p class="mt-0"><u>Cheeses:</u> Feta, mozzarella, goat cheese, gorgonzola, provolone, ricotta</p>
