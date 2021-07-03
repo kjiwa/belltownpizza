@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Menu
-cover-img: /assets/img/btp-cover.jpg
+cover-img: /assets/img/btp-cover-menu.jpg
 ---
 
 <ul class="nav justify-content-center">
@@ -11,7 +11,7 @@ cover-img: /assets/img/btp-cover.jpg
   <li class="nav-item"><a class="nav-link" href="#signature-pies">Signature Pies</a></li>
 </ul>
 
-## <u>Starters</u>
+## Starters
 
 <h4 class="d-inline-block">Hummus Plate</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Cucumbers, tomatoes, Kalamata olives, artichoke hearts, feta cheese, evoo, pita bread.</p>
@@ -28,7 +28,7 @@ cover-img: /assets/img/btp-cover.jpg
 <h4 class="d-inline-block">Chicken Wings</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Baked wings, classic Buffalo, garlic parmesan, mango habanero or sweet chili.</p>
 
-## <u>Soups &amp; Salads</u>
+## Soups &amp; Salads
 
 <h4 class="d-inline-block">Soup of the Day</h4><div class="float-md-right mt-md-3"><b>Small $6 / Large $10</b></div>
 <p class="mt-0">Ask your server.</p>
@@ -45,7 +45,7 @@ cover-img: /assets/img/btp-cover.jpg
 <h4 class="d-inline-block">Greek</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
 <p class="mt-0">Cucumber, red onions, Roma tomatoes, Kalamata olives, feta, evoo, house spice blend.</p>
 
-## <u>Calzones</u>
+## Calzones
 
 <h4 class="d-inline-block">Carnivore</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Ricotta, mozzarella, pepperoni, sausage, salami.</p>
@@ -56,7 +56,7 @@ cover-img: /assets/img/btp-cover.jpg
 <h4 class="d-inline-block">Build Your Own</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Ricotta, mozzarella, choice of any 3 toppings.</p>
 
-## <u>Signature Pies</u>
+## Signature Pies
 
 <h4 class="d-inline-block">808</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
 <p class="mt-0">Canadian bacon, pineapple, jalapenos.</p>

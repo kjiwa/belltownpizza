@@ -39,6 +39,10 @@ footer {
   color: {{ site.footer-text-col | default: "#777" }};
 }
 
+h2 {
+  text-decoration: underline;
+}
+
 .belltownpizza-bullet-left {
   background-image: url({{ site.baseurl }}/assets/img/btp-lightning-left.png);
   background-position: center top;
