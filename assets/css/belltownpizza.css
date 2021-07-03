@@ -55,6 +55,7 @@ footer {
 
 .belltownpizza-logo {
   background-image: url({{ site.baseurl }}/assets/img/btp-logo.png);
+  background-position: center top;
   background-repeat: no-repeat;
 }
 
