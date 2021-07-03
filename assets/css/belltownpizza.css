@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 body {
   font-family: "Raleway";
 }
@@ -29,6 +33,10 @@ h1, h2, h3, h4, h5, h6,
 
 a {
   font-weight: bold;
+}
+
+footer {
+  color: {{ site.footer-text-col | default: "#777" }};
 }
 
 .belltownpizza-bullet-left {
