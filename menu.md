@@ -61,9 +61,6 @@ cover-img: /assets/img/btp-cover.jpg
 <h4 class="d-inline-block">808</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
 <p class="mt-0">Canadian bacon, pineapple, jalapenos.</p>
 
-<h4 class="d-inline-block">Neo-Politan</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
-<p class="mt-0">Evoo base, shredded mozzarella, tomatoes, house pesto sauce.</p>
-
 <h4 class="d-inline-block">Blanco</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
 <p class="mt-0">Pesto base, shredded mozzarella, ricotta, fresh buffalo mozzarella.</p>
 
@@ -81,6 +78,33 @@ cover-img: /assets/img/btp-cover.jpg
 
 <h4 class="d-inline-block">Garden</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
 <p class="mt-0">Artichoke hearts, mushrooms, red onions, green peppers, black olives.</p>
+
+<h4 class="d-inline-block">Grinch</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
+<p class="mt-0">House alfredo base, mozzarella, spinach, red onions, black olives, mushrooms.</p>
+
+<h4 class="d-inline-block">The &quot;Husky&quot;</h4><div class="float-md-right mt-md-3"><b>Small $18 / Medium $23 / Large $30</b></div>
+<p class="mt-0">Italian sausage, bacon, red onion, jalapenos, fresh Buffalo mozzarella.</p>
+
+<h4 class="d-inline-block">Meatasaurus</h4><div class="float-md-right mt-md-3"><b>Small $18 / Medium $23 / Large $30</b></div>
+<p class="mt-0">Pepperoni, Canadian bacon, sausage, salami, bacon.</p>
+
+<h4 class="d-inline-block">McQueen's</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
+<p class="mt-0">Pepperoni, roasted red peppers, garlic.</p>
+
+<h4 class="d-inline-block">Neo-Politan</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
+<p class="mt-0">Evoo base, shredded mozzarella, tomatoes, house pesto sauce.</p>
+
+<h4 class="d-inline-block">Quattro</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
+<p class="mt-0">Mozzarella, provolone, feta, blue cheese.</p>
+
+<h4 class="d-inline-block">Southern Comfort</h4><div class="float-md-right mt-md-3"><b>Small $18 / Medium $22 / Large $27</b></div>
+<p class="mt-0">Sweet BBQ base, mozzarella, chicken, bacon, red onions.</p>
+
+<h4 class="d-inline-block">Stairway to Heaven</h4><div class="float-md-right mt-md-3"><b>Small $18 / Medium $22 / Large $28</b></div>
+<p class="mt-0">Pesto base, mozzarella, chicken, red onions, sun dried tomatoes, garlic.</p>
+
+<h4 class="d-inline-block">Wolf of Wall Street</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $26</b></div>
+<p class="mt-0">Alfredo base, mozzarella, chicken breast, bacon, red onions, spicy Buffalo sauce, celery.</p>
 
 <h4 class="d-inline-block">Build Your Own</h4><div class="float-md-right mt-md-3"><b>Small $14 / Medium $17 / Large $18</b></div>
 
