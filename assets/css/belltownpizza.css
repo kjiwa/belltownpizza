@@ -31,13 +31,29 @@ a {
   font-weight: bold;
 }
 
-.belltownpizza-home-bullet {
+.belltownpizza-bullet-left {
   background-image: url(/assets/img/btp-lightning-left.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: 75%;
 }
 
-.text-right .belltownpizza-home-bullet {
+.belltownpizza-bullet-right {
   background-image: url(/assets/img/btp-lightning-right.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+
+.belltownpizza-logo {
+  background-image: url(/assets/img/btp-logo.png);
+  background-repeat: no-repeat;
+}
+
+.belltownpizza-logo-style-soul {
+  background-image: url(/assets/img/btp-logo-style-soul.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 87.5%;
+  height: 625px;
 }
