@@ -31,7 +31,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 ## Soups &amp; Salads
 
 <h4 class="d-inline-block">Soup of the Day</h4><div class="float-md-right mt-md-3"><b>Small $6 / Large $10</b></div>
-<p class="mt-0">Ask your server.</p>
+<p class="mt-0">Ask your server or <a href="{{ 'contact' | relative_url }}">contact us</a>.</p>
 
 <h4 class="d-inline-block">House</h4><div class="float-md-right mt-md-3"><b>Small $6 / Large $10</b></div>
 <p class="mt-0">Romaine, Roma tomatoes, red onions, black olives, garlic croutons, choice of ranch, blue cheese, balsamic vinaigrette, or red wine vinaigrette.</p>
