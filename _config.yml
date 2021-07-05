@@ -15,7 +15,9 @@ author: Belltown Pizza
 
 navbar-links:
   Home: /
-  Menu: menu
+  Beer: beer
+  Cocktails: cocktails
+  Food: menu
   Specials: specials
   Delivery: delivery
   Contact: contact

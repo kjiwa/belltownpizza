@@ -35,7 +35,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Salads
 
-<p class="bg-light mt-3 mb-0 p-3"><b>Dressings</b>: Ranch, blue cheese, honey mustard, and balsamic or red wine vinaigrette.</p>
+<p class="bg-light mt-3 mb-0 p-3 border"><b>Dressings</b>: Ranch, blue cheese, honey mustard, and balsamic or red wine vinaigrette.</p>
 
 <h4 class="d-inline-block">House</h4><div class="float-md-right mt-md-3"><b>Small $6 / Large $10</b></div>
 <p class="mt-0">Romaine, Roma tomatoes, red onions, black olives, garlic croutons, choice of ranch, blue cheese, and balsamic vinaigrette, or red wine vinaigrette.</p>
@@ -51,7 +51,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Sandwiches / Wraps / Hot Dogs
 
-<div class="bg-light mt-3 mb-0 p-3">
+<div class="bg-light mt-3 mb-0 p-3 border">
   <p class="m-0 mb-2">All sandwiches and hot dogs are served with Tim's Original potato chips.</p>
   <p class="m-0">Add Mac &amp; Jack's cheddar beer sauce for dipping for $3.</p>
 </div>
@@ -100,7 +100,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">Five layers of marinara, mozzarella, ricotta, spinach, and eggplant. Add any protein for $3.</p>
 
 <h4 class="d-inline-block">Meatballs and Sauce</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
-<p class="mt-0">&quot;Just Like Mom's.&quot; Served with garlic bread.</p>
+<p class="mt-0">&quot;Just like Mom's.&quot; Served with garlic bread.</p>
 
 <h4 class="d-inline-block">Spaghetti with Marinara</h4><div class="float-md-right mt-md-3"><b>$11</b></div>
 <p class="mt-0">House marinara over spaghetti. Served with garlic bread.</p>
@@ -126,7 +126,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Signature Pies
 
-<p class="bg-light mt-3 mb-0 p-3"><b>Sizes</b>: Small 10" / Medium: 14" / Large: 18"</p>
+<p class="bg-light mt-3 mb-0 p-3 border"><b>Sizes</b>: Small 10" / Medium: 14" / Large: 18"</p>
 
 <h4 class="d-inline-block">808</h4><div class="float-md-right mt-md-3"><b>Small $17 / Medium $21 / Large $25</b></div>
 <p class="mt-0">Canadian bacon, pineapple, and jalapenos.</p>
