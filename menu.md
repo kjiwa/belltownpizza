@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Menu
+title: Food
 cover-img: /assets/img/btp-cover-menu.jpg
 ---
 
 <ul class="nav justify-content-center sticky-top pt-5 bg-white small">
   <li class="nav-item"><a class="nav-link" href="#starters">Starters</a></li>
   <li class="nav-item"><a class="nav-link" href="#salads">Salads</a></li>
-  <li class="nav-item"><a class="nav-link" href="#sandwiches--wraps--hot-dogs">Sandwiches / Wraps / Hot Dogs</a></li>
+  <li class="nav-item"><a class="nav-link" href="#sandwicheswrapshot-dogs">Sandwiches/Wraps/Hot Dogs</a></li>
   <li class="nav-item"><a class="nav-link" href="#mains">Mains</a></li>
   <li class="nav-item"><a class="nav-link" href="#calzones">Calzones</a></li>
   <li class="nav-item"><a class="nav-link" href="#signature-pies">Signature Pies</a></li>
@@ -49,7 +49,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Greek</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
 <p class="mt-0">Cucumber, red onions, Roma tomatoes, Kalamata olives, feta, EVOO, and house spice blend.</p>
 
-## Sandwiches / Wraps / Hot Dogs
+## Sandwiches/Wraps/Hot Dogs
 
 <div class="bg-light mt-3 mb-0 p-3 border">
   <p class="m-0 mb-2">All sandwiches and hot dogs are served with Tim's Original potato chips.</p>
