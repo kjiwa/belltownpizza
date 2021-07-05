@@ -14,7 +14,6 @@ author: Belltown Pizza
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: /
   Beer: beer
   Cocktails: cocktails
   Food: menu
