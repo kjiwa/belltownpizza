@@ -10,8 +10,8 @@ cover-img: /assets/img/btp-cover-menu.jpg
 * **Hellbent Dang Citra IPA**: (6.6% ABV) Seattle, WA.
 * **Mac &amp; Jack's African Amber**: (5.8% ABV) Seattle, WA.
 * **Stoup Brewing Mosaic Pale Ale**: (5.3% ABV) Seattle, WA.
-* (Rotating Draft) **Half Lion Peckinpaugh Hybrid Pale Ale**: (6.0% ABV). Sumner, WA.
-* (Rotating Cider) **Avid Cider Co. Marionberry Mojito**: (6.2% ABV) Bend, OR.
+* Rotating Draft
+* Rotating Cider
 
 ## Bottled/Canned Beer, Cider, and Seltzers
 

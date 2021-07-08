@@ -15,7 +15,7 @@ author: Belltown Pizza
 
 navbar-links:
   Beer: beer
-  Cocktails: cocktails
+#  Cocktails: cocktails
   Food: menu
   Specials: specials
   Delivery: delivery
