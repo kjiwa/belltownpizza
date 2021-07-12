@@ -1,7 +1,12 @@
+{% assign defer = "" %}
+{% if include.css.defer %}
+  {% assign defer = "defer" %}
+{% endif %}
+
 {% if include.css.sri %}
-  <link href="{{ include.css.href }}" rel="stylesheet" integrity="{{ include.css.sri }}" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ include.css.href }}" integrity="{{ include.css.sri }}" crossorigin="anonymous" {{ defer }}>
 {% elsif include.css.href %}
-  <link rel="stylesheet" href="{{ include.css.href }}">
+  <link rel="stylesheet" href="{{ include.css.href }}" {{ defer }}>
 {% else %}
   <link rel="stylesheet" href="{{ include.css }}">
 {% endif %}
