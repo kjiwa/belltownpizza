@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Contact Us
 cover-img: /assets/img/btp-cover-contact.jpg
 ---

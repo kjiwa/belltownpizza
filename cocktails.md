@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Cocktails
 cover-img: /assets/img/btp-cover-menu.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Specials
 cover-img: /assets/img/btp-cover-specials.jpg
 ---

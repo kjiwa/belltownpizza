@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Delivery
 cover-img: /assets/img/btp-cover-delivery.jpg
 ---

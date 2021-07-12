@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Beer
 cover-img: /assets/img/btp-cover-menu.jpg
 ---
