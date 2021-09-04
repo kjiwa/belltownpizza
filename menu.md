@@ -96,9 +96,6 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Four Cheese Ravioli</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Asiago, ricotta, Romano, and Parmesan-stuffed ravioli. Served with garlic bread. Choice of marinara, alfredo, or pesto sauce.</p>
 
-<h4 class="d-inline-block">Lasagna</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Five layers of marinara, mozzarella, ricotta, spinach, and eggplant. Add any protein for $3.</p>
-
 <h4 class="d-inline-block">Meatballs and Sauce</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
 <p class="mt-0">&quot;Just like Mom's.&quot; Served with garlic bread.</p>
 
