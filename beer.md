@@ -17,9 +17,13 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ### Domestics
 
+* **10 Barrel Crush**: *Cucumber Sour* (5% ABV) Bend, OR.
+* **10 Barrel Pub Beer**: *Lager* (5% ABV) Bend, OR.
 * **Blue Moon Belgian White**: *Wheat Ale* (5.4% ABV) Golden, CO.
 * **Blue Moon Light Sky**: *Wheat Ale* (4.0% ABV) Golden, CO.
 * **Coor's Banquet**: *Lager* (5.0% ABV) Golden, CO.
+* **Elysian Dragonstooth**: *Stout* (8.1% ABV) Seattle, WA.
+* **Kona Pipeline**: *Porter* (5.3% ABV) Portland, OR.
 * **Miller Light**: *Lager* (4.2% ABV) Milwaukee, WI.
 * **Miller High Life**: *Lager* (4.6% ABV) Milwaukee, WI.
 * **Modern Times Fruitlands**: *Sour Gose* (4.8% ABV) San Diego, CA.
@@ -31,6 +35,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ### Imports
 
+* **Estrella Jalisco**: *Lager* (4.5% ABV) Guadalajara, MX.
 * **Guinness**: *Stout* (4.2% ABV) Dublin, Ireland.
 * **Heineken**: *Lager* (5.0% ABV) Amsterdam, Holland.
 * **Modelo Especial**: *Pilsner-Style Lager* (4.4% ABV) Nava, Mexico.
