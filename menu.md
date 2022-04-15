@@ -162,7 +162,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">Alfredo base, mozzarella, chicken breast, bacon, red onions, spicy Buffalo sauce, and celery.</p>
 
 <h4 class="d-inline-block">Build Your Own</h4><div class="float-md-right mt-md-3"><b>Small $16 / Medium $22 / Large $28</b></div>
-<p class="mt-0 mb-2">Base price is for a cheese pizza. Toppings will incur an additional charges.</p>
+<p class="mt-0 mb-2">Base price is for a cheese pizza. Toppings incur additional charges.</p>
 <ul>
   <li class="mb-1"><u>Meats</u>: Anchovies, bacon, Canadian bacon, chicken breast, Italian sausage, pepperoni, prosciutto, meatballs, and salami.</li>
   <li class="mb-1"><u>Veggies</u>: Artichoke hearts, basil, black olives, fresh spinach, garlic, green peppers, jalapenos, Kalamata olives, Mama Lil's peppers, mushrooms, pesto, pineapple, pepperoncinis, red onions, roasted red peppers, Roma tomatoes, and sun dried tomatoes.</li>
