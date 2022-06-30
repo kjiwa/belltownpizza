@@ -22,6 +22,7 @@ description_length: 50
 navbar-links:
   Beer: beer
 #  Cocktails: cocktails
+  Wine: wine
   Food: menu
   Specials: specials
   Delivery: delivery
