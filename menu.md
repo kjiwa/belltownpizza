@@ -47,7 +47,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">Romaine, chicken, salami, Roma tomatoes, red onions, mozzarella, garbanzo beans, and red wine vinaigrette.</p>
 
 <h4 class="d-inline-block">Greek</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
-<p class="mt-0">Cucumber, red onions, Roma tomatoes, Kalamata olives, feta, EVOO, and house spice blend.</p>
+<p class="mt-0">Cucumber, red onions, Roma tomatoes, Kalamata olives, feta, EVOO, house spice blend, fresh mint, and garbanzo beans.</p>
 
 ## Sandwiches/Wraps/Hot Dogs
 
@@ -55,9 +55,6 @@ cover-img: /assets/img/btp-cover-menu.jpg
   <p class="m-0 mb-2">All sandwiches and hot dogs are served with Tim's Original potato chips.</p>
   <p class="m-0">Add Mac &amp; Jack's cheddar beer sauce for dipping for $3.</p>
 </div>
-
-<h4 class="d-inline-block">Caprese Sando</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
-<p class="mt-0">Pesto spread, Buffalo mozzarella, Roma tomatoes, fresh basil leaves, and balsamic glaze. Add prosciutto for $3.</p>
 
 <h4 class="d-inline-block">Meatball Sub</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Baked meatball, green peppers, red onion, house marinara sauce, and provolone.</p>
@@ -108,7 +105,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">Ricotta, mozzarella, pepperoni, sausage, and salami.</p>
 
 <h4 class="d-inline-block">Herbivore</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Ricotta, mozzarella, spinach, artichoke hearts, and red onion.</p>
+<p class="mt-0">Ricotta, mozzarella, spinach, artichoke hearts, red onion, and mushrooms.</p>
 
 <h4 class="d-inline-block">Build Your Own</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0 mb-2">Ricotta, mozzarella, and choice of any 3 toppings.</p>
