@@ -10,7 +10,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">Drumshanbo Gunpowder Gin, Aperol, Giffard Elderflower, Fresh Grapefruit Juice, Fresh Lemon Juice, Scrappys Lavender Bitters.</p>
 
 <h4 class="d-inline-block">Cadillac Seville Spritz</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
-<p class="mt-0">Tanguera Seville Gin, Giffard Pamplemousse, Carpano Botanical Bitters Topped with Chandon Garden Sparkling.</p>
+<p class="mt-0">Tanqueray Seville Gin, Giffard Pamplemousse, Carpano Botanical Bitters Topped with Chandon Garden Spritz.</p>
 
 <h4 class="d-inline-block">Whistle Pig Maple Old Fashion</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
 <p class="mt-0">Piggy Back 6 year Rye, Whistle Pig Maple Syrup, Reagans Orange Bitters, Angostura Bitters.</p>
@@ -22,7 +22,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">360 Huckleberry Vodka, Fresh Lemon Juice, Simple Syrup, Topped with soda.</p>
 
 <h4 class="d-inline-block">Split Beard's Daiquiri...</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
-<p class="mt-0">Stiggins Pineapple Rum, Fresh Lime Juice, Luxardo Maraschino, Giffard Pamplemousse, Demerara</p>
+<p class="mt-0">Stiggins Pineapple Rum, Fresh Lime Juice, Luxardo Maraschino, Giffard Pamplemousse, Demerara.</p>
 
 <h4 class="d-inline-block">Leap of Faith</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
 <p class="mt-0">Limavady Single Malt Irish Whiskey, Giffard Orgeat, Fresh Lemon Juice, Carpano Botanical Bitters, Rhubarb Bitters, Small Breath of absinthe.</p>
