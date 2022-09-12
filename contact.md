@@ -22,7 +22,7 @@ Call or visit us for general questions or to reserve the game room (up to 40 gue
       <div class="container pl-0">
         <div class="row">
           <div class="col">Sunday</div>
-          <div class="col">12PM - midnight</div>
+          <div class="col">10PM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Monday</div>
