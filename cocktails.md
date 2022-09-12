@@ -12,11 +12,11 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Cadillac Seville Spritz</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
 <p class="mt-0">Tanqueray Seville Gin, Giffard Pamplemousse, Carpano Botanical Bitters Topped with Chandon Garden Spritz.</p>
 
-<h4 class="d-inline-block">Whistle Pig Maple Old Fashion</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
-<p class="mt-0">Piggy Back 6 year Rye, Whistle Pig Maple Syrup, Reagans Orange Bitters, Angostura Bitters.</p>
+<h4 class="d-inline-block">WhistlePig Piggyback Maple Old Fashioned</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
+<p class="mt-0">PiggyBack 6 year Rye, WhistlePig barrel aged maple syrup, Reagans Orange Bitters, Angostura Bitters.</p>
 
 <h4 class="d-inline-block">I'm 50/50 about this...</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
-<p class="mt-0">Rainier Gin, Carpana Bianco Vermouth, Scrappy's Orange Bitters.</p>
+<p class="mt-0">Rainier Gin, Carpano Bianco Vermouth, Scrappy's Orange Bitters.</p>
 
 <h4 class="d-inline-block">I'll be your Huckleberry! Its a fruity lemonade people!!!</h4><div class="float-md-right mt-md-3"><b>$13</b></div>
 <p class="mt-0">360 Huckleberry Vodka, Fresh Lemon Juice, Simple Syrup, Topped with soda.</p>
