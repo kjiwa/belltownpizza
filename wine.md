@@ -26,6 +26,6 @@ cover-img: /assets/img/btp-cover-menu.jpg
 ## Reds
 
 * **Vino**: *Cabernet Sauvignon* (14% ABV) Mattawa, WA **$8/$24**
-* **Reverdito Barbera d'Alba**: *Barbera* (13.5% ABV) La Morra, Italy (DOC) **$11/$24**
+* **Batasiolo Barbera d'Alba**: *Barbera* (14.3% ABV) Piedmont, Italy (DOC) **$13/$48**
 * **Mark Ryan The Vincent**: *Washington Blend* (14.6%) Woodinville, WA **$11/$42**
 * **Fattoria Uccelliera**: *Rosso Di Toscana* (13% ABV) Ginepraia, Tuscany **$16/$60**
