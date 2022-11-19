@@ -30,6 +30,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Hummus Plate</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Cucumbers, tomatoes, Kalamata olives, artichoke hearts, feta cheese, EVOO, and pita bread.</p>
 
+<h4 class="d-inline-block">Jalape&ntilde;o Poppers</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
+<p class="mt-0">Fresh jalape&ntilde;os stuffed with cream cheese, bacon, and white onion. Wrapped in prosciutto and baked. Served with a side of ranch dressing.</p>
+
 <h4 class="d-inline-block">Meatballs and Sauce</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
 <p class="mt-0">&quot;Just like Mom's.&quot; Served with garlic bread.</p>
 

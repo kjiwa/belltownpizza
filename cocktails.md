@@ -38,11 +38,6 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Slushies
 
-<h4 class="d-inline-block">Miami Vice</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Mount Gay Barbados Rum, Lime Juice, Pineapple Juice, Coco Lopez Coconut, Strawberry Pur&eacute;e, Demerara.</p>
-
-<h4 class="d-inline-block">Don't Go Chasing Waterfalls</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Skybound Vodka (Seattle Based), Giffard Orgeat, Lime Juice, Blue Cura&ccedil;ao.</p>
-
-<h4 class="d-inline-block">Margarita</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">El Tequileńo Blanco Tequila, Lime Juice, Agave Syrup.</p>
+<div class="bg-light mt-3 mb-0 p-3 border">
+  <p class="m-0 mb-2">Ask your server about our rotating slushy selection.</p>
+</div>
