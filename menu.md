@@ -16,7 +16,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 ## Starters
 
 <h4 class="d-inline-block">Bavarian Pretzel</h4><div class="float-md-right mt-md-3"><b>$7</b></div>
-<p class="mt-0">Served with Mac &amp; Jack's Cheddar Beer Sauce, spicy brown mustard, and sauerkraut.</p>
+<p class="mt-0">Served with Mac &amp; Jack's Cheddar Beer Sauce, and spicy brown mustard.</p>
 
 <h4 class="d-inline-block">BTP Wings</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Baked wings, celery sticks, and sauce (Buffalo, garlic Parmesan, teriyaki, sweet chili, mango habanero, or BBQ).</p>
