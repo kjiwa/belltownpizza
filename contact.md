@@ -22,7 +22,7 @@ Call or visit us for general questions or to reserve the game room (up to 40 gue
       <div class="container pl-0">
         <div class="row">
           <div class="col">Sunday</div>
-          <div class="col">10PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Monday</div>
@@ -30,23 +30,23 @@ Call or visit us for general questions or to reserve the game room (up to 40 gue
         </div>
         <div class="row">
           <div class="col">Tuesday</div>
-          <div class="col">4PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Wednesday</div>
-          <div class="col">4PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Thursday</div>
-          <div class="col">4PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Friday</div>
-          <div class="col">4PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
         <div class="row">
           <div class="col">Saturday</div>
-          <div class="col">12PM - 2AM</div>
+          <div class="col">11:30AM - 2AM</div>
         </div>
       </div>
     </div>
