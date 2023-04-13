@@ -19,21 +19,14 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ### Domestics
 
-* **10 Barrel Crush**: *Cucumber Sour* (5.0% ABV) Bend, OR.
-* **10 Barrel Guava Crush**: *Sour* (5.0% ABV) Bend, OR.
 * **10 Barrel Pub Beer**: *Lager* (5% ABV) Bend, OR.
 * **Blue Moon Belgian White**: *Wheat Ale* (5.4% ABV) Golden, CO.
-* **Blue Moon Light Sky**: *Wheat Ale* (4.0% ABV) Golden, CO.
-* **Breckenridge Vanilla Porter**: *Porter* (5.4% ABV) Denver, CO.
-* **Hop Valley Kraken Stash**: *IPA* (7.0% ABV) Springfield, OR.
 * **Michelob Ultra**: *Lager* (4.2% ABV) St Louis, MO.
 * **Miller Light**: *Lager* (4.2% ABV) Milwaukee, WI.
 * **Miller High Life**: *Lager* (4.6% ABV) Milwaukee, WI.
 * **Miller High Life Pony**: *Lager* (4.6% ABV) Milwaukee, WI.
 * **Pabst Blue Ribbon**: *Lager* (4.8% ABV) Milwaukee, WI.
 * **Rainier**: *Lager* (4.6% ABV) Golden, CO.
-* **Shiner Bock**: *Dark Lager* (4.4% ABV) Shiner, TX.
-* **Sweet Water 420**: *Extra Pale Ale* (5.4% ABV) Atlanta, GA.
 
 ### Imports
 
@@ -42,16 +35,13 @@ cover-img: /assets/img/btp-cover-menu.jpg
 * **Estrella Jalisco**: *Lager* (4.5% ABV) Guadalajara, Mexico.
 * **Guinness**: *Stout* (4.2% ABV) Dublin, Ireland.
 * **Heineken**: *Lager* (5.0% ABV) Amsterdam, Holland.
-* **La Fin Monde**: *Belgian Style* (4.0% ABV) Quebec, Canada.
 * **Modelo Especial**: *Pilsner-Style Lager* (4.4% ABV) Nava, Mexico.
 * **Pacifico**: *Pilsner* (4.4% ABV) Nava, Mexico.
 * **Trumer Pils**: *Pilsner* (4.9% ABV) Austria.
 
 ### Locals
 
-* **Black Raven Origin**: *India Pale Ale* (6.9% ABV) Woodenville, WA.
 * **Black Raven Trickster**: *India Pale Ale* (6.9% ABV) Woodinville, WA.
-* **Elysian Dragonstooth**: *Stout* (8.1% ABV) Seattle, WA.
 * **Georgetown Brewery Bodhizafa**: *India Pale Ale* (6.9% ABV) Seattle, WA.
 
 ### Ciders
