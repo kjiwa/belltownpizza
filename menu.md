@@ -21,7 +21,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">BP Wings</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
 <p class="mt-0">Baked wings, celery sticks, and sauce (Buffalo, garlic Parmesan, teriyaki, sweet chili, mango habanero, or BBQ).</p>
 
-<h4 class="d-inline-block">Caprese</h4><div class="float-md-right mt-md-3"><b>$13</b></div>
+<h4 class="d-inline-block">Caprese</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Fresh buffalo mozzarella, roma tomatoes, basil leaves, drizzle of balsamic vinaigrette.</p>
 
 <h4 class="d-inline-block">Caulifire Bites</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
