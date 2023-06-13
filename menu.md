@@ -11,6 +11,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
   <li class="nav-item"><a class="nav-link" href="#mains">Mains</a></li>
   <li class="nav-item"><a class="nav-link" href="#calzones">Calzones</a></li>
   <li class="nav-item"><a class="nav-link" href="#signature-pies">Signature Pies</a></li>
+  <li class="nav-item"><a class="nav-link" href="#desserts">Desserts</a></li>
 </ul>
 
 ## Starters
@@ -171,3 +172,13 @@ cover-img: /assets/img/btp-cover-menu.jpg
   <li class="mb-1"><u>Veggies</u>: Artichoke hearts, basil, black olives, fresh spinach, garlic, green peppers, jalapenos, Kalamata olives, Mama Lil's peppers, mushrooms, pesto, pineapple, pepperoncinis, red onions, roasted red peppers, Roma tomatoes, and sun dried tomatoes.</li>
   <li><u>Cheeses</u>: Feta, mozzarella, goat cheese, gorgonzola, provolone, and ricotta</li>
 </ul>
+
+## Desserts
+
+<h4 class="d-inline-block">House Made Bread Pudding</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
+<p class="mt-0">Caramel bourbon glazed. Served with vanilla ice cream.</p>
+
+<h4 class="d-inline-block">Cannoli</h4><div class="float-md-right mt-md-3"><b>$10</b></div>
+<p class="mt-0">Cannoli stuffed with ricotta cheese and chocolate chips. Served with vanilla ice cream.</p>
+
+<h4 class="d-inline-block">A bowl of vanilla ice cream</h4><div class="float-md-right mt-md-3"><b>$6</b></div>
