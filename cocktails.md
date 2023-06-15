@@ -38,6 +38,11 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Slushies
 
-<div class="bg-light mt-3 mb-0 p-3 border">
-  <p class="m-0 mb-2">Ask your server about our rotating slushy selection.</p>
-</div>
+<h4 class="d-inline-block">Forget About It!!!</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
+<p class="mt-0">Titos, Fernet Branca, Borghetti Espresso, Iron Goat cold brew.</p>
+
+<h4 class="d-inline-block">Margarita</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
+<p class="mt-0">El Tequileno tequila, lime juice, agave syrup.</p>
+
+<h4 class="d-inline-block">Painkiller</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
+<p class="mt-0">Skybound rum, pineapple juice, orange juice, Coco Lopez syrup.</p>
