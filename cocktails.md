@@ -45,4 +45,4 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <p class="mt-0">El Tequileno tequila, lime juice, agave syrup.</p>
 
 <h4 class="d-inline-block">Painkiller</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Skybound rum, pineapple juice, orange juice, Coco Lopez syrup.</p>
+<p class="mt-0">Skybound rum, pineapple juice, orange juice, Coco Lopez.</p>
