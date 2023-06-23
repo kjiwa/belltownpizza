@@ -31,9 +31,6 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Cheesy Garlic Bread</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Hand-tossed dough, EVOO, garlic, house spice blend, and melted mozzarella.</p>
 
-<h4 class="d-inline-block">Fettucine Carbonara</h4><div class="float-md-right mt-md-3"><b>$20</b></div>
-<p class="mt-0">Fettuccine, pancetta, egg yolk, pecorino, and parmigiana cheese finished with fresh ground black pepper.</p>
-
 <h4 class="d-inline-block">Hummus Plate</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
 <p class="mt-0">Cucumbers, tomatoes, Kalamata olives, artichoke hearts, feta cheese, EVOO, and pita bread.</p>
 
@@ -99,6 +96,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 <h4 class="d-inline-block">Chicken Alfredo</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
 <p class="mt-0">Diced chicken breast, bacon, red onion, and house alfredo over fettucini. Served with garlic bread.</p>
+
+<h4 class="d-inline-block">Fettucine Carbonara</h4><div class="float-md-right mt-md-3"><b>$20</b></div>
+<p class="mt-0">Fettuccine, pancetta, egg yolk, pecorino, and parmigiana cheese finished with fresh ground black pepper.</p>
 
 <h4 class="d-inline-block">Four Cheese Ravioli</h4><div class="float-md-right mt-md-3"><b>$16</b></div>
 <p class="mt-0">Asiago, ricotta, Romano, and Parmesan-stuffed ravioli. Served with garlic bread. Choice of marinara, alfredo, or pesto sauce.</p>
