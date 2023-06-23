@@ -31,6 +31,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">Cheesy Garlic Bread</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Hand-tossed dough, EVOO, garlic, house spice blend, and melted mozzarella.</p>
 
+<h4 class="d-inline-block">Fettucine Carbonara</h4><div class="float-md-right mt-md-3"><b>$20</b></div>
+<p class="mt-0">Fettuccine, pancetta, egg yolk, pecorino, and parmigiana cheese finished with fresh ground black pepper.</p>
+
 <h4 class="d-inline-block">Hummus Plate</h4><div class="float-md-right mt-md-3"><b>$15</b></div>
 <p class="mt-0">Cucumbers, tomatoes, Kalamata olives, artichoke hearts, feta cheese, EVOO, and pita bread.</p>
 
