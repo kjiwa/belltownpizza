@@ -53,6 +53,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 * **Avid Cider Co. Dragonfruit**: (6.0% ABV) Bend, OR.
 * **Avid Cider Co. Watermelon Rhubarb**: (6.0% ABV) Bend, OR.
+* **Bellingham Cider Co. Imperial Cherry Limeade**: (8.5% ABV) Bellingham, WA.
 * **Incline Prickly Pear**: (6.9% ABV) Tacoma, WA.
 * **Yonder Dry**: (6.5% ABV) Wenatchee, WA.
 * **Yonder Palisade Blackberry Sage**: (6.5% ABV) Wenatchee, WA.
