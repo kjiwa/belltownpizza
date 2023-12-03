@@ -42,13 +42,16 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Salads
 
-<p class="bg-light mt-3 mb-0 p-3 border"><b>Dressings</b>: Ranch, blue cheese, honey mustard, and balsamic or red wine vinaigrette.</p>
+<p class="bg-light mt-3 mb-0 p-3 border"><b>Dressings</b>: Caesar, balsamic, BBQ ranch, blue cheese, ranch, or red wine vinaigrette.</p>
 
 <h4 class="d-inline-block">House</h4><div class="float-md-right mt-md-3"><b>Small $7 / Large $12</b></div>
 <p class="mt-0">Romaine, Roma tomatoes, red onions, black olives, garlic croutons, choice of ranch, blue cheese, and balsamic vinaigrette, or red wine vinaigrette.</p>
 
 <h4 class="d-inline-block">Caesar</h4><div class="float-md-right mt-md-3"><b>Small $7 / Large $12</b></div>
 <p class="mt-0">Romaine, garlic croutons, Parmesan, and lemon.</p>
+
+<h4 class="d-inline-block">Chicken BBQ Bacon</h4><div class="float-md-right mt-md-3"><b>Small $12 / Large $16</b></div>
+<p class="mt-0">Romaine, chicken, corn, avocado, rice wine vinegar, marinated onions, and cucumbers with a house BBQ ranch dressing. </p>
 
 <h4 class="d-inline-block">Chop</h4><div class="float-md-right mt-md-3"><b>Small $12 / Large $16</b></div>
 <p class="mt-0">Romaine, chicken, salami, Roma tomatoes, red onions, mozzarella, garbanzo beans, and red wine vinaigrette.</p>
