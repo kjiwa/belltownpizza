@@ -38,11 +38,11 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Slushies
 
-<h4 class="d-inline-block">Forget About It!!!</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
-<p class="mt-0">Titos, Fernet Branca, Borghetti Espresso, Iron Goat cold brew.</p>
-
 <h4 class="d-inline-block">Margarita</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">El Tequileno tequila, lime juice, agave syrup.</p>
 
 <h4 class="d-inline-block">Painkiller</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Skybound rum, pineapple juice, orange juice, Coco Lopez.</p>
+
+<h4 class="d-inline-block">Rum Runner</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
+<p class="mt-0">White rum, dark rum, blackberry brandy, 99 bananas, sour mix, pineapple, grenadine.</p>
