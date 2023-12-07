@@ -18,49 +18,12 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Bottled/Canned Beer, Cider, and Seltzers
 
-### Domestics
+{% assign categories = "Domestics,Imports,Locals,Ciders,Non-Alcoholic,Seltzers" | split: "," -%}
+{% for category in categories %}
+### {{ category }}
 
-{% assign x = site.data.beer | where: "Category", "Domestics" -%}
+{% assign x = site.data.beer | where: "Category", category -%}
 {%- for row in x %}
-* **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
+* **{{ row["Name"] }}**: {% if row["Style"] %}*{{ row["Style"] }}* {% endif %}({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
 {%- endfor %}
-&nbsp;
-
-### Imports
-
-{% assign x = site.data.beer | where: "Category", "Imports" -%}
-{%- for row in x %}
-* **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{%- endfor %}
-&nbsp;
-
-### Locals
-
-{% assign x = site.data.beer | where: "Category", "Locals" -%}
-{%- for row in x %}
-* **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{%- endfor %}
-&nbsp;
-
-### Ciders
-
-{% assign x = site.data.beer | where: "Category", "Ciders" -%}
-{%- for row in x %}
-* **{{ row["Name"] }}**: ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{%- endfor %}
-&nbsp;
-
-### Non-Alcoholic
-
-{% assign x = site.data.beer | where: "Category", "Non-Alcoholic" -%}
-{%- for row in x %}
-* **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{%- endfor %}
-
-### Seltzers
-
-{% assign x = site.data.beer | where: "Category", "Seltzers" -%}
-{%- for row in x %}
-* **{{ row["Name"] }}**: {{ row["Style"] }} ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{%- endfor %}
-&nbsp;
+{% endfor %}

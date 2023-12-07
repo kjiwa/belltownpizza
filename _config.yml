@@ -5,6 +5,7 @@ avatar: /assets/img/btp-avatar-icon.png
 description_length: 50
 highlighter: rouge
 markdown: kramdown
+permalink: /:title/
 remove-ads: true
 round-avatar: true
 timezone: America/Los_Angeles
@@ -56,6 +57,7 @@ defaults:
       path: ""
     values:
       ext-css: "https://fonts.googleapis.com/css?family=Raleway"
+      footer-extra: footer-extra.html
       layout: page
 
 exclude:
