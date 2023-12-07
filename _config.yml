@@ -1,23 +1,28 @@
-# --- Site --- #
-
-url: https://www.belltownpizza.net
 title: Belltown Pizza
 author: Belltown Pizza
 
-# --- General options --- #
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
+avatar: /assets/img/btp-avatar-icon.png
+description_length: 50
+highlighter: rouge
+markdown: kramdown
+remove-ads: true
+round-avatar: true
+timezone: America/Los_Angeles
+title-img: /assets/img/btp-logo-banner.png
 url-pretty: belltownpizza.net
 
-# Description word length. Truncates the page content to the specified number
-# of words.
-description_length: 50
+site-css:
+  - /assets/css/belltownpizza.css
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+site-js:
+  - "/assets/js/slice.js"
 
-# --- Navigation --- #
+social-network-links:
+  email: "info@belltownpizza.net"
+  facebook: belltownpizza
+  twitter: belltownpizza
+  instagram: belltownpizzaseattle
+  telephone: +12064412653
 
 navbar-links:
   Beer: beer
@@ -27,53 +32,6 @@ navbar-links:
   Specials: specials
   Delivery: delivery
   Contact: contact
-
-# --- Logo --- #
-
-# The image to show in the navigation bar. Remove this parameter if you don't
-# want an image in the navbar. A square image will yield the best result.
-avatar: /assets/img/btp-avatar-icon.png
-
-# The image is cut into a circle by default. This behaviour can be disabled
-# by setting this value false.
-round-avatar: true
-
-# Specify a title image to replace the title with an image in the top-left
-# corner of the website.
-title-img: /assets/img/btp-logo-banner.png
-
-
-# --- Social Media Links --- #
-
-social-network-links:
-  email: "info@belltownpizza.net"
-  facebook: belltownpizza
-  twitter: belltownpizza
-  instagram: belltownpizzaseattle
-  telephone: +12064412653
-#  github: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  spotify: yourname
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-# --- Colours/Background Image --- #
-
-# Personalize the colours in your website. Colour values can be any valid CSS
-# colour.
 
 navbar-col: "#eaeaea"
 navbar-text-col: "#404040"
@@ -86,98 +44,26 @@ footer-col: "#565656"
 footer-text-col: "#fff"
 footer-link-col: "#000"
 
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour.
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is
-# only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
-
-# For any extra visual customization, you can include additional CSS files in
-# every page on your site. List any custom CSS files here.
-site-css:
-  - /assets/css/belltownpizza.css
-  - href: https://fonts.googleapis.com/css?family=Raleway
-    defer: true
-
-# If you have common JavaScript files that should be included in every page,
-# list them here.
-site-js:
-  - "/assets/js/slice.js"
-
-# --- Web Analytics --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
-
-# Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
-
-# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Misc --- #
-
-# Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
-
-# --- You don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: America/Los_Angeles
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-
 kramdown:
   input: GFM
 
 sass:
   style: compressed
 
-# Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
       path: ""
-      type: posts
     values:
-      layout: post
-      comments: false  # add comments to all blog posts
-      social-share: false # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
+      ext-css: "https://fonts.googleapis.com/css?family=Raleway"
       layout: page
 
-# Exclude these files from production site
 exclude:
-  - beautiful-jekyll-theme.gemspec
   - Gemfile
   - Gemfile.lock
-  - LICENSE
 
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
-remove-ads: true
