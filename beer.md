@@ -6,12 +6,10 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ## Drafts
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Drafts" -%}
+{% assign x = site.data.beer | where: "Category", "Drafts" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
-&nbsp;
+{%- endfor %}
 * Rotating Cider
 * Rotating IPA
 * Rotating Pale Ale
@@ -22,54 +20,47 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ### Domestics
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Domestics" -%}
+{% assign x = site.data.beer | where: "Category", "Domestics" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
+{%- endfor %}
 &nbsp;
 
 ### Imports
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Imports" -%}
+{% assign x = site.data.beer | where: "Category", "Imports" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
+{%- endfor %}
 &nbsp;
 
 ### Locals
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Locals" -%}
+{% assign x = site.data.beer | where: "Category", "Locals" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
+{%- endfor %}
 &nbsp;
 
 ### Ciders
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Ciders" -%}
+{% assign x = site.data.beer | where: "Category", "Ciders" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
+{%- endfor %}
 &nbsp;
 
 ### Non-Alcoholic
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Non-Alcoholic" -%}
+{% assign x = site.data.beer | where: "Category", "Non-Alcoholic" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: *{{ row["Style"] }}* ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
-&nbsp;
+{%- endfor %}
 
 ### Seltzers
 
-{% for row in site.data.beer -%}
-{% if row["Category"] == "Seltzers" -%}
+{% assign x = site.data.beer | where: "Category", "Seltzers" -%}
+{%- for row in x %}
 * **{{ row["Name"] }}**: {{ row["Style"] }} ({{ row["ABV"] }}% ABV) {{ row["Origin"] }}
-{% endif -%}
-{% endfor -%}
+{%- endfor %}
 &nbsp;
