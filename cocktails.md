@@ -4,7 +4,7 @@ title: Cocktails
 cover-img: /assets/img/btp-cover-menu.jpg
 ---
 
-{% assign categories = "Cocktails,Slushies" | split: "," -%}
+{% assign categories = "Cocktails,Winter Warmers,Slushies" | split: "," -%}
 {% for category in categories %}
 ## {{ category }}
 
