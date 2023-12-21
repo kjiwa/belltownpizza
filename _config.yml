@@ -10,6 +10,7 @@ remove-ads: true
 round-avatar: true
 timezone: America/Los_Angeles
 title-img: /assets/img/btp-logo-banner.png
+url: https://www.belltownpizza.net
 url-pretty: belltownpizza.net
 
 site-css:
