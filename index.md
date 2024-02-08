@@ -62,7 +62,7 @@ full-width: true
           <div class="col-sm-3 belltownpizza-bullet-left"></div>
           <div class="col-sm-9">
             <h6>Weekly Specials</h6>
-            <small>Belltown Pizza offers different deals during the week! Take a look at our specials <a href="{{ 'specials' | relative_url }}">here</a>!</small>
+            <small>Belltown Pizza offers different deals during the week!</small>
           </div>
         </div>
         <div class="row mb-5">
