@@ -23,5 +23,5 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 ### {{ category }}
 {% endif %}
-* <div class="w-75 d-flex justify-content-between"><strong>{{ row["Name"] }}</strong> {% if row["Price"] %}<span class="text-right">${{ row["Price"] }}</span>{% endif %}</div>
+* <div class="w-100 d-flex justify-content-between"><strong>{{ row["Name"] }}</strong> {% if row["Price"] %}<span class="text-right">${{ row["Price"] }}</span>{% endif %}</div>
 {%- endfor -%}
