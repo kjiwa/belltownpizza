@@ -10,7 +10,7 @@ _WORKSHEET_TITLE_TO_CATEGORY_NAMES = {
 
 _WORKSHEETS_TO_SKIP = ["Order History"]
 
-_CSV_COLUMN_TITLES = ["Category", "Name"]
+_CSV_COLUMN_TITLES = ["Category", "Name", "Price"]
 
 _STRING_REPLACEMENTS = {
     '"': "",
@@ -20,6 +20,8 @@ _STRING_REPLACEMENTS = {
 }
 
 _STRINGS_TO_TITLECASE = ["beholden", "lot", "rye", "smokestock", "stock", "summer"]
+
+_STRINGS_TO_LEAVE_UNFORMATTED = ["WhistlePig"]
 
 
 def parse_args():
@@ -37,7 +39,7 @@ def format_value(value):
     for part in value.split():
         if any(c.isdigit() for c in part):
             formatted_parts.append(part.lower())
-        elif (
+        elif part not in _STRINGS_TO_LEAVE_UNFORMATTED and (
             not (part.isalpha() and part.isupper())
             or part.lower() in _STRINGS_TO_TITLECASE
         ):
@@ -61,7 +63,8 @@ def parse_worksheet(worksheet):
         if not value or not value.strip() or value.strip().lower() == "name":
             continue
 
-        values.append([category, format_value(value)])
+        price = int(row[2].value) if isinstance(row[2].value, float) else ""
+        values.append([category, format_value(value), price])
 
     return values
 
