@@ -19,9 +19,10 @@ _STRING_REPLACEMENTS = {
     "WP ": "WhistlePig ",
 }
 
-_STRINGS_TO_TITLECASE = ["beholden", "lot", "rye", "smokestock", "stock", "summer"]
 
 _STRINGS_TO_LEAVE_UNFORMATTED = ["WhistlePig"]
+
+_STRINGS_TO_UPPERCASE = ["IPA", "LALO", "OFTD", "VS", "VSOP", "XO"]
 
 
 def parse_args():
@@ -31,21 +32,32 @@ def parse_args():
     return parser.parse_args()
 
 
+def is_roman_numeral(s):
+    return re.match("^[MDCLXVI]+$", s, re.IGNORECASE)
+
+
+def should_be_lowercase(s):
+    return any(c.isdigit() for c in s)
+
+
+def should_be_uppercase(s):
+    return is_roman_numeral(s) or s.upper() in _STRINGS_TO_UPPERCASE
+
+
 def format_value(value):
     for k, v in _STRING_REPLACEMENTS.items():
         value = re.sub(k, v, value, flags=re.IGNORECASE)
 
     formatted_parts = []
     for part in value.split():
-        if any(c.isdigit() for c in part):
-            formatted_parts.append(part.lower())
-        elif part not in _STRINGS_TO_LEAVE_UNFORMATTED and (
-            not (part.isalpha() and part.isupper())
-            or part.lower() in _STRINGS_TO_TITLECASE
-        ):
-            formatted_parts.append(part.title())
-        else:
+        if part in _STRINGS_TO_LEAVE_UNFORMATTED:
             formatted_parts.append(part)
+        elif should_be_lowercase(part):
+            formatted_parts.append(part.lower())
+        elif should_be_uppercase(part):
+            formatted_parts.append(part.upper())
+        else:
+            formatted_parts.append(part.title())
 
     return " ".join(formatted_parts)
 
