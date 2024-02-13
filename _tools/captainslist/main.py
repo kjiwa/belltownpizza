@@ -1,6 +1,7 @@
 import argparse
 import csv
 import openpyxl
+import re
 
 _WORKSHEET_TITLE_TO_CATEGORY_NAMES = {
     "LiqueursCordials": "Liqueurs and Cordials",
@@ -11,6 +12,15 @@ _WORKSHEETS_TO_SKIP = ["Order History"]
 
 _CSV_COLUMN_TITLES = ["Category", "Name"]
 
+_STRING_REPLACEMENTS = {
+    '"': "",
+    " (yr|year)": "yr",
+    "proof": " proof",
+    "WP ": "WhistlePig ",
+}
+
+_STRINGS_TO_TITLECASE = ["beholden", "lot", "rye", "smokestock", "stock", "summer"]
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -20,16 +30,22 @@ def parse_args():
 
 
 def format_value(value):
+    for k, v in _STRING_REPLACEMENTS.items():
+        value = re.sub(k, v, value, flags=re.IGNORECASE)
+
     formatted_parts = []
-    for part in value.split(" "):
-        if part[0].isdigit():
+    for part in value.split():
+        if any(c.isdigit() for c in part):
             formatted_parts.append(part.lower())
-        elif part.islower():
+        elif (
+            not (part.isalpha() and part.isupper())
+            or part.lower() in _STRINGS_TO_TITLECASE
+        ):
             formatted_parts.append(part.title())
         else:
             formatted_parts.append(part)
 
-    return " ".join(formatted_parts).replace('"', "")
+    return " ".join(formatted_parts)
 
 
 def parse_worksheet(worksheet):
