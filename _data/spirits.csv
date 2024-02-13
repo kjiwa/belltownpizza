@@ -1,9 +1,10 @@
+Category,Name
+Brandy and Cognac,Distillarium
 Brandy and Cognac,Hennessey VS
 Brandy and Cognac,Hennessey XO
-Brandy and Cognac,Remmy VSOP
-Brandy and Cognac,Remmy Tercet
 Brandy and Cognac,Martinellis
-Brandy and Cognac,Distillarium
+Brandy and Cognac,Remmy Tercet
+Brandy and Cognac,Remmy VSOP
 Gin,Aviation
 Gin,Beefeater
 Gin,Bombay Saphire
@@ -92,11 +93,11 @@ Rum,Kraken
 Rum,Malibu
 Rum,Mount Gay Barbados
 Rum,Myers
+Rum,OFTD & Rum FIre
 Rum,Plantation 3 Star
 Rum,Plantation Pineapple
 Rum,Sailor Jerry
 Rum,Well Rum
-Rum,OFTD & Rum FIre
 Scotch,Ardbeg 10yr
 Scotch,Ardbeg AN'OA
 Scotch,Ardbeg Corryvreckan
@@ -153,8 +154,8 @@ Tequila,El Tequileno Rare Reposado
 Tequila,El Tequileno Reposado
 Tequila,Fortaleza Blanco
 Tequila,Fortaleza Reposado
-Tequila,La Gritona Reposado
 Tequila,LALO
+Tequila,La Gritona Reposado
 Tequila,Los Vecinos
 Tequila,Mijenta Blanco
 Tequila,Mijenta Reposado
@@ -179,12 +180,12 @@ Vodka,Grey Goose
 Vodka,Hanger One Rośe
 Vodka,Ketel One
 Vodka,Luksusowa
+Vodka,Meili Vodka (Jason Momoa)
 Vodka,Olympia
 Vodka,Skybound
 Vodka,Titos
 Vodka,Well Vodka
 Vodka,Wheatly
-Vodka,Meili Vodka (Jason Momoa)
 Whiskey,4 Roses Single Barrel
 Whiskey,4 Roses Small Batch
 Whiskey,4 Roses Yellow Label
@@ -232,8 +233,8 @@ Whiskey,Michters Toasted Barrel Sour Mash
 Whiskey,Mitchell & Son (Gold Spot)
 Whiskey,Noahs Mills
 Whiskey,Old Forester
-Whiskey,Old Forester Black Cat #2 Edition
 Whiskey,Old Forester Belltown Barrel Select
+Whiskey,Old Forester Black Cat #2 Edition
 Whiskey,Old Overholt
 Whiskey,Old Rip Van Winkle 107proof
 Whiskey,Oola Waitsburg Bourbon
@@ -259,13 +260,30 @@ Whiskey,Rouge Dead Guy
 Whiskey,Sazerac 6yr Rye
 Whiskey,Seagrams 7
 Whiskey,Skybound Bourbon
+Whiskey,TIn Cup
 Whiskey,Templeton Rye
 Whiskey,Thomas Handy Sazerac Rye
-Whiskey,TIn Cup
 Whiskey,Tin Cup 10yr
 Whiskey,Uncle Nearest 1856
 Whiskey,Uncle Nearest 1884 Small Batch
 Whiskey,Van Winkle Special Reserve 12 Year LOT B
+Whiskey,WP 10yr Rye
+Whiskey,WP 12yr Old World
+Whiskey,WP 15yr
+Whiskey,WP 18yr
+Whiskey,WP BEHOLDEN 21yr Single Malt
+Whiskey,WP Beyond Bonded Bourbon
+Whiskey,WP Beyond Bonded Rye
+Whiskey,WP Boss Hog IX Sirens Song
+Whiskey,WP Boss Hog VIII Lapulapu
+Whiskey,WP Farm Stock Rye
+Whiskey,WP Home Stock Rye
+Whiskey,WP Piggy Bank 10yr Rye
+Whiskey,WP Piggyback 6yr Bourbon
+Whiskey,WP Piggyback 6yr RYE
+Whiskey,WP Road Stock Rye
+Whiskey,WP SMOKESTOCK Traeger Edition
+Whiskey,WP SUMMER STOCK Pit Viper Edition
 Whiskey,Well Whiskey
 Whiskey,Weller 12yr
 Whiskey,Weller Antique 107
@@ -290,21 +308,4 @@ Whiskey,Willet 4yr Rye
 Whiskey,Willett Pot Still
 Whiskey,William Larue Weller Barrel Proof
 Whiskey,Woodford Reserve
-Whiskey,WP BEHOLDEN 21yr Single Malt
-Whiskey,WP 10yr Rye
-Whiskey,WP 12yr Old World
-Whiskey,WP 15yr
-Whiskey,WP 18yr
-Whiskey,WP Beyond Bonded Bourbon
-Whiskey,WP Beyond Bonded Rye
-Whiskey,WP Boss Hog IX Sirens Song
-Whiskey,WP Boss Hog VIII Lapulapu
-Whiskey,WP Farm Stock Rye
-Whiskey,WP Home Stock Rye
-Whiskey,WP Piggy Bank 10yr Rye
-Whiskey,WP Piggyback 6yr Bourbon
-Whiskey,WP Piggyback 6yr RYE
-Whiskey,WP Road Stock Rye
-Whiskey,WP SMOKESTOCK Traeger Edition
-Whiskey,WP SUMMER STOCK Pit Viper Edition
 Whiskey,Wyoming Whiskey

@@ -9,6 +9,8 @@ _WORKSHEET_TITLE_TO_CATEGORY_NAMES = {
 
 _WORKSHEETS_TO_SKIP = ["Order History"]
 
+_CSV_COLUMN_TITLES = ["Category", "Name"]
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -51,6 +53,7 @@ def parse_worksheet(worksheet):
 def write_values_to_csv(filename, values):
     with open(filename, "w") as f:
         writer = csv.writer(f)
+        writer.writerow(_CSV_COLUMN_TITLES)
         for row in values:
             writer.writerow(row)
 
@@ -59,13 +62,13 @@ def main():
     args = parse_args()
     wb = openpyxl.load_workbook(args.input_filename)
     values = []
-    for i in sorted(wb.sheetnames):
+    for i in wb.sheetnames:
         if i in _WORKSHEETS_TO_SKIP:
             continue
 
         values += parse_worksheet(wb[i])
 
-    write_values_to_csv(args.output_filename, values)
+    write_values_to_csv(args.output_filename, sorted(values))
 
 
 if __name__ == "__main__":
