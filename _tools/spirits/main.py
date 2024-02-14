@@ -72,7 +72,12 @@ def parse_worksheet(worksheet):
     values = []
     for row in worksheet:
         value = row[0].value
-        if not value or not value.strip() or value.strip().lower() == "name":
+        if (
+            not value
+            or not value.strip()
+            or value.strip().lower() == "name"
+            or value.strip().lower().startswith("well ")
+        ):
             continue
 
         price = int(row[2].value) if isinstance(row[2].value, float) else ""

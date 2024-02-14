@@ -20,7 +20,6 @@ Gin,Rainier Gin,10
 Gin,Skybound,10
 Gin,Tanqueray,10
 Gin,Tanqueray Seville Orange Gin,10
-Gin,Well Gin,
 Irish Whiskey,Jameson,9
 Irish Whiskey,Jameson Bale Breaker Caskmate,10
 Irish Whiskey,Jameson Black Barrel,13
@@ -93,35 +92,33 @@ Rum,Kraken,10
 Rum,Malibu,9
 Rum,Mount Gay Barbados,11
 Rum,Myers,11
-Rum,OFTD & Rum Fire,
 Rum,Plantation 3 Star,9
 Rum,Plantation Pineapple,10
 Rum,Sailor Jerry,10
-Rum,Well Rum,
-Scotch,Ardbeg 10yr,
-Scotch,Ardbeg An'Oa,
-Scotch,Ardbeg Corryvreckan,
-Scotch,Ardbeg Drum,
-Scotch,Ardbeg Wee Beastie 5yr,
-Scotch,Balvenie Caribbean Rum Cask 14yr,
-Scotch,Balvenie Doublewood 12yr,
-Scotch,Bruichladdich Islay Barley,
-Scotch,Bruichladdich Port Charlotte,
-Scotch,Dewars White Label,
-Scotch,Glenfiddich 12yr,
-Scotch,Glenfiddich 14yr Bourbon Barrel,
-Scotch,Glenfiddich Gran Cru,
-Scotch,Glenlivet 12yr,
-Scotch,Glenmorangie 18yr,
-Scotch,Johnnie Walker Black Label,
-Scotch,Johnnie Walker Blue Label,
-Scotch,Johnnie Walker Red Label,
-Scotch,Lagavulin 16yr,
-Scotch,Laphroaig,
-Scotch,Macallan 12yr,
-Scotch,Macallan 12yr Sherry Cask Finish,
-Scotch,Macallan 18yr Sherry Cask Finish,
-Scotch,Naked Grouse,
+Scotch,Ardbeg 10yr,20
+Scotch,Ardbeg An'Oa,23
+Scotch,Ardbeg Corryvreckan,28
+Scotch,Ardbeg Drum,45
+Scotch,Ardbeg Wee Beastie 5yr,18
+Scotch,Balvenie Caribbean Rum Cask 14yr,25
+Scotch,Balvenie Doublewood 12yr,20
+Scotch,Bruichladdich Islay Barley,12
+Scotch,Bruichladdich Port Charlotte,20
+Scotch,Dewars White Label,9
+Scotch,Glenfiddich 12yr,12
+Scotch,Glenfiddich 14yr Bourbon Barrel,16
+Scotch,Glenfiddich Gran Cru,82
+Scotch,Glenlivet 12yr,13
+Scotch,Glenmorangie 18yr,45
+Scotch,Johnnie Walker Black Label,14
+Scotch,Johnnie Walker Blue Label,70
+Scotch,Johnnie Walker Red Label,12
+Scotch,Lagavulin 16yr,30
+Scotch,Laphroaig,23
+Scotch,Macallan 12yr,23
+Scotch,Macallan 12yr Sherry Cask Finish,23
+Scotch,Macallan 18yr Sherry Cask Finish,98
+Scotch,Naked Grouse,11
 Tequila,818 Blanco,13
 Tequila,Angelisco Blanco,12
 Tequila,Angelisco Reposado,14
@@ -184,7 +181,6 @@ Vodka,Meili Vodka (Jason Momoa),10
 Vodka,Olympia,11
 Vodka,Skybound,10
 Vodka,Titos,11
-Vodka,Well Vodka,
 Vodka,Wheatly,10
 Whiskey,4 Roses Single Barrel,12
 Whiskey,4 Roses Small Batch,11
@@ -267,7 +263,6 @@ Whiskey,Tin Cup 10yr,13
 Whiskey,Uncle Nearest 1856,17
 Whiskey,Uncle Nearest 1884 Small Batch,15
 Whiskey,Van Winkle Special Reserve 12yr Lot B,89
-Whiskey,Well Whiskey,
 Whiskey,Weller 12yr,25
 Whiskey,Weller Antique 107,15
 Whiskey,Weller C.Y.P.B.,45
