@@ -1,0 +1,30 @@
+---
+
+exclude_worksheets:
+  - "Order History"
+
+output_column_names:
+  - Category
+  - Name
+  - Price
+
+rename_worksheets:
+  LiqueursCordials: "Liqueurs and Cordials"
+  BrandyCognac: "Brandy and Cognac"
+
+string_substitutions:
+  '"': ""
+  " (yr|year)": "yr"
+  "proof": " proof"
+  "WP ": "WhistlePig "
+
+strings_to_leave_unformatted:
+  - "WhistlePig"
+
+strings_to_uppercase:
+  - "IPA"
+  - "LALO"
+  - "OFTD"
+  - "VS"
+  - "VSOP"
+  - "XO"

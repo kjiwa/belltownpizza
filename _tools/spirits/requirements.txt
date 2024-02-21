@@ -1,2 +1,5 @@
 black
 openpyxl
+pyyaml
+schema
+yamllint
