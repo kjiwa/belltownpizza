@@ -77,16 +77,13 @@ def parse_worksheet(worksheet, cfg):
     values = []
     for row in worksheet:
         value = row[0].value
-        if not value or not value.strip():
-            continue
-
-        skip_value = False
-        for i in cfg["strings_to_ignore"]:
-            if re.match(i, value.strip().lower(), re.IGNORECASE):
-                skip_value = True
-                break
-
-        if skip_value:
+        if (
+            not value
+            or not value.strip()
+            or re.match(
+                "|".join(cfg["strings_to_ignore"]), value.strip(), re.IGNORECASE
+            )
+        ):
             continue
 
         price = int(row[2].value) if isinstance(row[2].value, float) else ""
