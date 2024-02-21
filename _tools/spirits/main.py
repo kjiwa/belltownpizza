@@ -12,6 +12,7 @@ _CFG_SCHEMA = schema.Schema(
         "output_column_names": list,
         "rename_worksheets": dict,
         "string_substitutions": dict,
+        "strings_to_ignore": list,
         "strings_to_leave_unformatted": list,
         "strings_to_uppercase": list,
     }
@@ -76,12 +77,16 @@ def parse_worksheet(worksheet, cfg):
     values = []
     for row in worksheet:
         value = row[0].value
-        if (
-            not value
-            or not value.strip()
-            or value.strip().lower() == "name"
-            or value.strip().lower().startswith("well ")
-        ):
+        if not value or not value.strip():
+            continue
+
+        skip_value = False
+        for i in cfg["strings_to_ignore"]:
+            if re.match(i, value.strip().lower(), re.IGNORECASE):
+                skip_value = True
+                break
+
+        if skip_value:
             continue
 
         price = int(row[2].value) if isinstance(row[2].value, float) else ""

@@ -18,6 +18,10 @@ string_substitutions:
   "proof": " proof"
   "WP ": "WhistlePig "
 
+strings_to_ignore:
+  - "^name$"
+  - "^well "
+
 strings_to_leave_unformatted:
   - "WhistlePig"
 
