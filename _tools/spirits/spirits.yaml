@@ -15,15 +15,19 @@ rename_worksheets:
 string_substitutions:
   '"': ""
   " (yr|year)": "yr"
-  "proof": " proof"
-  "WP ": "WhistlePig "
+  "(\\S)proof": "\\1 Proof"
+  "farm\\s?stock": "FarmStock"
+  "home\\s?stock": "HomeStock"
+  "piggy\\s?back": "PiggyBack"
+  "piggy\\s?bank": "PiggyBank"
+  "road\\s?stock": "RoadStock"
+  "smoke\\s?stock": "SmokeStock"
+  "summer\\s?stock": "SummerStock"
+  "whistle\\s?pig": "WhistlePig"
 
 strings_to_ignore:
   - "^name$"
   - "^well "
-
-strings_to_leave_unformatted:
-  - "WhistlePig"
 
 strings_to_uppercase:
   - "IPA"

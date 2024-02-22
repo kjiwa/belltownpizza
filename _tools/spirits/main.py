@@ -4,6 +4,7 @@ import openpyxl
 import os.path
 import re
 import schema
+import string
 import yaml
 
 _CFG_SCHEMA = schema.Schema(
@@ -13,7 +14,6 @@ _CFG_SCHEMA = schema.Schema(
         "rename_worksheets": dict,
         "string_substitutions": dict,
         "strings_to_ignore": list,
-        "strings_to_leave_unformatted": list,
         "strings_to_uppercase": list,
     }
 )
@@ -50,21 +50,22 @@ def should_be_uppercase(s, cfg):
 
 
 def format_value(value, cfg):
-    for k, v in cfg["string_substitutions"].items():
-        value = re.sub(k, v, value, flags=re.IGNORECASE)
-
     formatted_parts = []
     for part in value.split():
-        if part in cfg["strings_to_leave_unformatted"]:
-            formatted_parts.append(part)
-        elif should_be_lowercase(part):
+        if should_be_lowercase(part):
             formatted_parts.append(part.lower())
         elif should_be_uppercase(part, cfg):
             formatted_parts.append(part.upper())
+        elif "'" in part:
+            formatted_parts.append(part.capitalize())
         else:
             formatted_parts.append(part.title())
 
-    return " ".join(formatted_parts)
+    value = " ".join(formatted_parts)
+    for k, v in cfg["string_substitutions"].items():
+        value = re.sub(k, v, value, flags=re.IGNORECASE)
+
+    return value
 
 
 def parse_worksheet(worksheet, cfg):
