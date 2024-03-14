@@ -3,6 +3,7 @@ import csv
 import openpyxl
 import os.path
 import re
+import roman
 import schema
 import string
 import yaml
@@ -38,7 +39,16 @@ def load_config(config_file):
 
 
 def is_roman_numeral(s):
-    return re.match("^[MDCLXVI]+$", s, re.IGNORECASE)
+    if not re.match("^[MDCLXVI]+$", s, re.IGNORECASE):
+        return False
+
+    try:
+        roman.fromRoman(s)
+        return True
+    except:
+        pass
+
+    return False
 
 
 def should_be_lowercase(s):
