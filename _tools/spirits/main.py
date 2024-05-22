@@ -97,7 +97,7 @@ def parse_worksheet(worksheet, cfg):
         ):
             continue
 
-        price = int(row[2].value) if isinstance(row[2].value, float) else ""
+        price = int(row[1].value) if isinstance(row[1].value, float) else ""
         values.append([category, format_value(value, cfg), price])
 
     return values
