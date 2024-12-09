@@ -16,9 +16,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 * Rotating Pilsner
 * Rotating Seasonal Draft
 
-## Bottled/Canned Beer, Cider, and Seltzers
+## Beer, Cider, Sours/Saisons, and Seltzers
 
-{% assign categories = "Domestics,Imports,Locals,Ciders,Non-Alcoholic,Seltzers" | split: "," -%}
+{% assign categories = "Domestics,Imports,Locals,Ciders,Sours and Saisons,Non-Alcoholic,Seltzers" | split: "," -%}
 {% for category in categories %}
 ### {{ category }}
 
