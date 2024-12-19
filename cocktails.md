@@ -24,5 +24,5 @@ cover-img: /assets/img/btp-cover-menu.jpg
 ## {{ category }}
 {% endif %}
 <h4 class="d-inline-block">{{ row["Name"] }}</h4><div class="float-md-right mt-md-3"><b>${{ row["Price"] }}</b></div>
-<p class="m-0">{{ row["Ingredients"] }}</p>
+<p class="m-0">{{ row["Ingredients"] }}{% if row["Notes"] %}<br><small><em>{{ row["Notes"] }}</em></small>{% endif %}</p>
 {%- endfor -%}
