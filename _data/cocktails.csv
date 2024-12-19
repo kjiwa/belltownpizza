@@ -1,20 +1,26 @@
-Category,Name,Price,Ingredients
-Cocktails,B's Chilada,15,"Beer, Clamato, fresh citrus, Mexican spice, Tajin rim with a shot of your choice of Milagro Silver or Reposado tequila on the side"
-Cocktails,Espresso Martini,14,"Ketel One vodka, Pegasus cold brew, borghetti espresso"
-Cocktails,The Girlfriend's Doctor,14,"Ford's gin, Aperol, Giffard elderflower, grapefruit juice, lemon juice"
-Cocktails,Hot Charlotte,14,"Hendrick's gin, Giffard elderflower, cucumber, lemon, hot sauce"
-Cocktails,I'll be your Huckleberry,13,"360 Huckleberry vodka, fresh lemon juice, simple syrup, topped with soda"
-Cocktails,Latin Quarter,16,"Diplomático Reserva Exclusiva, demerara syrup, angostura bitters, Peychaud's bitters, orange twist"
-Cocktails,Pass Me Another,15,"Prosecco, Aperol, soda, orange slice"
-Cocktails,Rhubarbarso Mule,13,"Tito's vodka, Giffard rhubarb, ginger beer, lime"
-Cocktails,Rita Got Wings,14,"Milagro Silver tequila, Red Bull Tropical Edition, agave syrup, lime, orange"
-Cocktails,WhistlePig Piggyback Maple Old Fashioned,16,"PiggyBack 6 year Rye, WhistlePig barrel aged maple syrup, Reagans Orange bitters, Angostura bitters."
-Boilermakers,Fresh & Fruity,12,"Watermelon-Kazi, seasonal cider 8oz schooner"
-Boilermakers,Hellbent & Piggy Bound,12,"WhistlePig PiggyBack 6yr Rye, Hellbent IPA 8oz schooner"
-Boilermakers,Industry Lunch,12,"Fernet, Miller High Life Pony"
-Non-Alcoholic,Ginger & Mary Ann,10,"Giffard ginger, lime, ginger beer, candied ginger, topped with soda"
-Non-Alcoholic,Nuts About You,10,"Giffard coconut, orgeat, pineapple, topped with soda"
-Non-Alcoholic,Passionately Yours,10,"Passionfruit, lime, rimmed with Tajin, topped with soda"
-Slushies,Margarita,14,"Tequila, lime juice, agave syrup."
-Slushies,Bartender's Rotation,14,"Ask your bartender."
-Slushies,Seasonal Rotation,14,"Ask your bartender."
+Category,Name,Price,Ingredients,Notes
+Cocktails,Rhubarbarso Mule,14,"Tito's handmade vodka, Giffard rhubarb liquer, ginger beer, lime",
+Cocktails,Espresso Martini,15,"Ketel One vodka, Pegasus cold brew, Borghetti espresso liquer",
+Cocktails,Girlfriend's Doctor,15,"Ford's gin, Aperol, Giffard elderflower liquer, grapefruit, lemon",
+Cocktails,Ginger Snap,17,"Planteray OFTD, housemade ginger syrup, falernum, Angostura bitters, lemon",
+Cocktails,Latin Hattan,18,"Diplomatico Reserva, Carpana Antica, Angostura bitters",
+Cocktails,BTP(aloma),15,"Milagra Repo, fresh lime and grapefruit, salt, squirt, tajin rim",
+Cocktails,B's Chilada,15,"Beer, Clamato, fresh citrus, Mexican spice, Tajin rim with a shot of your choice of Milagro Silver or Reposado tequila on the side",
+Cocktails,BTP Old Fashioned,18,"BTP Larceny barrel-proof bourbon, barrel-aged maple syrup Reagan's orange, Angostura bitters",
+Cocktails,I'll be your Huckleberry,14,"360 Huckleberry vodka, fresh lemon juice, simple syrup, topped with soda",
+Cocktails,Warm Apple Pie,16,"Tullamore Dew Cider Cask, spiced apple cider, falernum, Angostura bitters",
+Cocktails,Midnight Margarita,17,"Tequila, mezcal, lime, agave, apple cider, activated charcoal*, saline",*Activated charcoal can have interactions with medications
+Boilermakers,Industry Lunch,12,"Fernet, High Life Pony",
+Boilermakers,Austin's City Limits,12,"Wild Turkey 101, Highlife Pony",
+Boilermakers,Apple Cup,12,"Washington Apple with Jack Apple and 8oz schooner of seasonal cider",
+Slushies,Margarita,14,"Milagro Reposado Tequila, lime juice, agave syrup"
+Slushies,Bartender's Rotation,14,"Ask your bartender",
+Slushies,Seasonal Rotation,14,"Ask your bartender",
+Flights,Heaven Hill Select Stock,50,"Armagnac, brandy, sherry",
+Flights,Jack Daniels Bonded,20,"Bonded, Triple Mash, Bonded Rye",
+Flights,Westland,35,"Flagship, beer cask, wine cask",
+Flights,WhistlePig,45,"10 year, 12 year, Viper Summer Stock",
+Flights,Woodford Reserve,25,"Malt, wheat, rye",
+Non-Alcoholic Libations,Passionately Yours,10,"Passionfruit, lime, rimmed with Tajin, topped with soda",
+Non-Alcoholic Libations,Ginger & Mary Ann,10,"Giffard ginger, lime, ginger beer, candied ginger, topped with soda",
+Non-Alcoholic Libations,Nuts About You,10,"Giffard coconut, orgeat, pineapple, topped with soda",
