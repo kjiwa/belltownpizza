@@ -23,7 +23,7 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">BP Wings</h4><div class="float-md-right mt-md-3"><b>$17</b></div>
 <p class="mt-0">Baked wings, celery sticks, and sauce (Buffalo, garlic Parmesan, teriyaki, sweet chili, mango habanero, or BBQ).</p>
 
-<h4 class="d-inline-block">Breaded Chicken Tenders</h4><div class="float-md-right mt-md-3"><b>$17</b></div>
+<h4 class="d-inline-block">Breaded Chicken Tenders</h4><div class="float-md-right mt-md-3"><b>$12</b></div>
 <p class="mt-0">Oven roasted chicken tenders with a choice of Buffalo, garlic parmesan, teriyaki, sweet chili, mango habanero, or BBQ sauce.</p>
 
 <h4 class="d-inline-block">BTP Sliders</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
