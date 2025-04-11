@@ -23,6 +23,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 <h4 class="d-inline-block">BP Wings</h4><div class="float-md-right mt-md-3"><b>$17</b></div>
 <p class="mt-0">Baked wings, celery sticks, and sauce (Buffalo, garlic Parmesan, teriyaki, sweet chili, mango habanero, or BBQ).</p>
 
+<h4 class="d-inline-block">Breaded Chicken Tenders</h4><div class="float-md-right mt-md-3"><b>$17</b></div>
+<p class="mt-0">Oven roasted chicken tenders with a choice of Buffalo, garlic parmesan, teriyaki, sweet chili, mango habanero, or BBQ sauce.</p>
+
 <h4 class="d-inline-block">BTP Sliders</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
 <p class="mt-0">Three sliders, grilled patties with melted cheese mayonnaise and pickle relish. Add slider $4</p>
 
@@ -42,6 +45,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
 
 <h4 class="d-inline-block">Vegan Tomato Soup</h4><div class="float-md-right mt-md-3"><b>Small $8/Large $12</b></div>
 <p class="mt-0">San Marzano tomatoes, white onions, garlic, carrot, thyme, and extra virgin olive oil. Served with garlic bread.</p>
+
+<h4 class="d-inline-block">French Onion Soup</h4><div class="float-md-right mt-md-3"><b>$14</b></div>
+<p class="mt-0">Swiss cheese, fresh grated Parmesan, beef and veal stock, vermouth. Served with toasted bread.</p>
 
 ## Salads
 
@@ -65,6 +71,9 @@ cover-img: /assets/img/btp-cover-menu.jpg
   <p class="m-0 mb-2">All sandwiches and hot dogs are served with Tim's Original potato chips or tomato basil soup.</p>
   <p class="m-0">Add Mac &amp; Jack's cheddar beer sauce for dipping for $3.</p>
 </div>
+
+<h4 class="d-inline-block">French Dip</h4><div class="float-md-right mt-md-3"><b>$18</b></div>
+<p class="mt-0">Roast beef with provalone cheese and grilled onions. Includes a side of creamy horseradish and au jus.</p>
 
 <h4 class="d-inline-block">Meatball Sub</h4><div class="float-md-right mt-md-3"><b>$18</b></div>
 <p class="mt-0">Baked meatballs, green peppers, red onion, house marinara sauce, and provolone.</p>
